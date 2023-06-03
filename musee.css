@@ -1,0 +1,33 @@
+*{
+    background-color: #000;
+    color: #fff;
+}
+.nav{ 
+    display :flex;
+    padding: auto;
+    background-color:grey;
+    justify-content: center;
+
+}
+
+.nav li {
+list-style: none;
+}
+
+.nav li a{
+    display: block;
+    margin: 25px;
+    text-align: center;
+    text-decoration: none;
+    color:#fff;
+    border-radius: 5px;
+}
+
+.image{
+ height: 550px;
+ padding: auto;
+ width: 300px;
+ justify-content: center;
+ margin: auto;
+ display: flex;
+}
